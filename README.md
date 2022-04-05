@@ -18,13 +18,13 @@ material:
 "Materiais Leves e transparentes,com sola de borracha"
 
 imagem1: 
-"https://images.lojanike.com.br/500x500/produto/tenis-jordan-one-take-3-DC7701-600-5-51628869567.jpg")
+https://github.com/sirdav1d/assets/blob/main/tenis/tenis2/tenis-jordan-one-take3-01.png
   
 imagem2: 
-"https://images.lojanike.com.br/500x500/produto/tenis-jordan-one-take-3-DC7701-600-6-61628869569.jpg")
+https://github.com/sirdav1d/assets/blob/main/tenis/tenis2/tenis-jordan-one-take3-02.png
   
 imagem3: 
-"https://images.lojanike.com.br/500x500/produto/tenis-jordan-one-take-3-DC7701-600-2-21628869563.jpg")
+https://github.com/sirdav1d/assets/blob/main/tenis/tenis2/tenis-jordan-one-take3-03.png
 
 ------------------------------------------------------------------------------------------------------------------------
   
@@ -44,13 +44,13 @@ material:
 "Parte de cima em tela, couro e suede com sobreposições em Material Sintético, entressola e a sola em espuma."
 
 imagem1: 
-"https://images.lojanike.com.br/500x500/produto/tenis-nike-air-max-excee-CD4165-015-5-51629820316.jpg"
+"https://github.com/sirdav1d/assets/blob/main/tenis/tenis3/tenis-nike-air-max-excee-001.png"
 
 imagem2:
-"https://images.lojanike.com.br/500x500/produto/tenis-nike-air-max-excee-CD4165-015-6-61629820317.jpg"
+"https://github.com/sirdav1d/assets/blob/main/tenis/tenis3/tenis-nike-air-max-excee-002.png"
   
 imagem3:
-"https://images.lojanike.com.br/500x500/produto/tenis-nike-air-max-excee-CD4165-015-2-21629820312.jpg"
+"https://github.com/sirdav1d/assets/blob/main/tenis/tenis3/tenis-nike-air-max-excee-003.png"
 
 --------------------------------------------------------------------------------------------------------------------------
 
@@ -70,13 +70,13 @@ material:
 "Parte de cima em tela, couro e suede com sobreposições em Material Sintético, a entressola e a sola em espuma."
 
 imagem1: 
-"https://images.lojanike.com.br/500x500/produto/tenis-nk-air-zoom-alphafly-next-fkh-DO2407-728-5-51638991245.jpg"
+"https://github.com/sirdav1d/assets/blob/main/tenis/tenis4/tenis04.001.png"
 
 imagem2: 
-"https://images.lojanike.com.br/500x500/produto/tenis-nk-air-zoom-alphafly-next-fkh-DO2407-728-6-61638991247.jpg"
+"https://github.com/sirdav1d/assets/blob/main/tenis/tenis4/tenis04.002.png"
 
 imagem3: 
-"https://images.lojanike.com.br/500x500/produto/tenis-nk-air-zoom-alphafly-next-fkh-DO2407-728-2-21638991239.jpg"
+"https://github.com/sirdav1d/assets/blob/main/tenis/tenis4/tenis04.003.png"
 
 ------------------------------------------------------------------------------------------------------------------------------
   
@@ -91,13 +91,13 @@ uso:"Futebol/Campo",
 material:
 "Uma versão despojada da parte de cima em Flyknit, travas Chevron, com tecnologia NikeGrip na palmilha."
 
-imagem1: "https://images.lojanike.com.br/500x500/produto/chuteira-nike-mercurial-vapor-14-elite-unissex-CQ7635-574-5-51635263276.jpg"
+imagem1: "https://github.com/sirdav1d/assets/blob/main/tenis/tenis5/tenis05.001.png"
 
 imagem2: 
-"https://images.lojanike.com.br/500x500/produto/chuteira-nike-mercurial-vapor-14-elite-unissex-CQ7635-574-6-61635263277.jpg"
+"https://github.com/sirdav1d/assets/blob/main/tenis/tenis5/tenis05.002.png"
 
 imagem3: 
-"https://images.lojanike.com.br/500x500/produto/chuteira-nike-mercurial-vapor-14-elite-unissex-CQ7635-574-2-21635263272.jpg"
+"https://github.com/sirdav1d/assets/blob/main/tenis/tenis5/tenis05.003.png"
 
 ---------------------------------------------------------------------------------------------------------------------------- -
 nome:
@@ -115,11 +115,11 @@ uso:
 material:
 "Uma camada espessa de espuma leve e macia, borracha resistente em áreas de alto desgaste."
 
-imagem1: "https://images.lojanike.com.br/500x500/produto/tenis-nike-superrep-go-2-masculino-CZ0604-083-5-51631631596.jpg"
+imagem1: "https://github.com/sirdav1d/assets/blob/main/tenis/tenis6/tenis06.001.png"
 
-imagem2: "https://images.lojanike.com.br/500x500/produto/tenis-nike-superrep-go-2-masculino-CZ0604-083-6-61631631597.jpg"
+imagem2: "https://github.com/sirdav1d/assets/blob/main/tenis/tenis6/tenis06.002.png"
 
-imagem3: "https://images.lojanike.com.br/500x500/produto/tenis-nike-superrep-go-2-masculino-CZ0604-083-2-21631631593.jpg"
+imagem3: "https://github.com/sirdav1d/assets/blob/main/tenis/tenis6/tenis06.003.png"
 
 ----------------------------------------------------------------------------------------------------------------------------------
   
@@ -138,13 +138,13 @@ material:
 "A palmilha em Nike React é feita com espuma leve e durável, e borracha resistente em áreas de alto desgaste."
 
 imagem1: 
-"https://images.lojanike.com.br/500x500/produto/tenis-nike-sb-ishod-premium-masculino-DH1030-001-5-51640098786.jpg"
+"https://github.com/sirdav1d/assets/blob/main/tenis/tenis7/tenis07.001.png"
 
 imagem2: 
-"https://images.lojanike.com.br/500x500/produto/tenis-nike-sb-ishod-premium-masculino-DH1030-001-6-61640098787.jpg"
+"https://github.com/sirdav1d/assets/blob/main/tenis/tenis7/tenis07.002.png"
 
 imagem3: 
-"https://images.lojanike.com.br/500x500/produto/tenis-nike-sb-ishod-premium-masculino-DH1030-001-2-21640098784.jpg",
+"https://github.com/sirdav1d/assets/blob/main/tenis/tenis7/tenis07.003%20(2).png"
 
 --------------------------------------------------------------------------------------------------------------------------------------
 
@@ -163,11 +163,11 @@ uso:
 material:
 " Borracha durável e plástico resistente no solado. Uma espuma macia trabalha em conjunto com uma espuma mais firme ao longo da parte externa do pé."
 
-imagem1: "https://images.lojanike.com.br/500x500/produto/chuteira-nike-react-vapor-nxt-hc-CV0724-114-5-51623785940.jpg"
+imagem1: "https://github.com/sirdav1d/assets/blob/main/tenis/tenis8/tenis08.001.png"
 
-imagem2: "https://images.lojanike.com.br/500x500/produto/chuteira-nike-react-vapor-nxt-hc-CV0724-114-6-61623785941.jpg"
+imagem2: "https://github.com/sirdav1d/assets/blob/main/tenis/tenis8/tenis08.002.png"
 
-imagem3: "https://images.lojanike.com.br/500x500/produto/chuteira-nike-react-vapor-nxt-hc-CV0724-114-2-21623785936.jpg"
+imagem3: "https://github.com/sirdav1d/assets/blob/main/tenis/tenis8/tenis08.003.png"
 
 -----------------------------------------------------------------------------------------------------------------------------------------
   
@@ -185,11 +185,11 @@ uso:
 material:
 "plástico reforçado, solado em eva e borracha resistente"
 
-imagem1: "https://images.lojanike.com.br/500x500/produto/tenis-w-air-max-2090-CV8727-600-5.jpg"
+imagem1: "https://github.com/sirdav1d/assets/blob/main/tenis/tenis9/tenis09.001.png"
 
-imagem2: "https://images.lojanike.com.br/500x500/produto/tenis-w-air-max-2090-CV8727-600-6.jpg"
+imagem2: "https://github.com/sirdav1d/assets/blob/main/tenis/tenis9/tenis09.002.png"
 
-imagem3: "https://images.lojanike.com.br/500x500/produto/tenis-w-air-max-2090-CV8727-600-2.jpg",
+imagem3: https://github.com/sirdav1d/assets/blob/main/tenis/tenis9/tenis09.003.png
 
 --------------------------------------------------------------------------------------------------------------------------------------
   
@@ -207,34 +207,15 @@ uso:
 material:
 "Mistura de couro com materiais sintéticos, fita de borracha, entressola de espuma e solado em borracha resistente"
 
-imagem1: "https://images.lojanike.com.br/500x500/produto/tenis-w-nsw-af1-af1-CI0919-004-5-51638985141.jpg"
+imagem1: "https://github.com/sirdav1d/assets/blob/main/tenis/tenis10/tenis10.001.png"
 
-imagem2: "https://images.lojanike.com.br/500x500/produto/tenis-w-nsw-af1-af1-CI0919-004-6-61638985142.jpg"
+imagem2: "https://github.com/sirdav1d/assets/blob/main/tenis/tenis10/tenis10.002.png"
 
-imagem3: "https://images.lojanike.com.br/500x500/produto/tenis-w-nsw-af1-af1-CI0919-004-2-21638985137.jpg"
+imagem3: "https://github.com/sirdav1d/assets/blob/main/tenis/tenis10/tenis10.003.png"
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
   
-nome:
-"Tênis Nike KD14 Unissex"
-  
-nota:
-"4,6"
-
-descricao:"Kevin Durant espreita pelas quadras, esperando o momento certo para dar o bote e despistar a defesa. O KD14 foi desenvolvido para ajudar jogadores versáteis e implacáveis, como KD, a se sentirem frescos durante todo o jogo. A tela multicamadas e a alça no médio pé ajudam a reduzir os movimentos do pé no interior dos tênis. O amortecimento Zoom Air de comprimento total e a espuma Cushlon proporcionam impulso reativo para um desempenho duradouro."
-
-uso:
-"Basquete"
-
-material:
-" Espuma Cushlon , tela multicamadas , amortecimento Zoom Air e solado em borracha resistente."
-
-imagem1: "https://images.lojanike.com.br/500x500/produto/tenis-nike-kd14-unissex-CW3935-002-5-51621955058.jpg"
-
-imagem2: "https://images.lojanike.com.br/500x500/produto/tenis-nike-kd14-unissex-CW3935-002-6-61621955059.jpg"
-
-imagem3: "https://images.lojanike.com.br/500x500/produto/tenis-nike-kd14-unissex-CW3935-002-2-21621955053.jpg"
 
 
   
